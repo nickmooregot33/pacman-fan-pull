@@ -1,0 +1,6 @@
+[submodule "sae-units"]
+	path = sae-units
+	url = https://github.com/nickmooregot33/sae-units
+[submodule "openscad-bushing"]
+	path = openscad-bushing
+	url = git@github.com:nickmooregot33/openscad-bushing.git
